@@ -9,6 +9,8 @@ A template for a team cognitive load assessment. Based on some of the ideas in t
 
 ## How to use
 
-## Team Cognitive Load Assessment Example
+## Team Cognitive Load Assessment example
+
+See this example Team Cognitive Load Assessment created with Google Forms: [https://forms.gle/UD4e1uGzwnrikCDYA](https://forms.gle/UD4e1uGzwnrikCDYA)
 
 ## Team Cognitive Load Assessment Template
